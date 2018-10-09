@@ -29,11 +29,11 @@ p{
   text-align: center;
   color: black;
   font-family: roboto;
-  box-shadow: 1px 1px 16px #BFBFBF;
+  box-shadow: 10px 10px 20px #BFBFBF;
 }
 
 .bloc2{
-  height: 600px;
+  height: 175px;
   width: 1000px;
   border-radius: 3px;
   background-color: white;
@@ -42,7 +42,7 @@ p{
   text-align: center;
   color: black;
   font-family: roboto;
-  box-shadow: 1px 1px 16px #BFBFBF;
+  box-shadow: 10px 10px 20px #BFBFBF;
 }
 
 .bloc3{
@@ -55,7 +55,7 @@ p{
   text-align: center;
   color: black;
   font-family: roboto;
-  box-shadow: 1px 1px 16px #BFBFBF;
+   box-shadow: 10px 10px 20px #BFBFBF;
 }
 
 .bloc4{
@@ -68,7 +68,7 @@ p{
   text-align: center;
   color: black;
   font-family: roboto;
-  box-shadow: 1px 1px 16px #BFBFBF;
+ box-shadow: 10px 10px 20px #BFBFBF;
 }
 
 
@@ -99,20 +99,6 @@ background-color: pink;
 #liste {
   list-style: none;
 }
-#snap{
- color: yellow;
- 
-}
-
-#fb{
-  color: blue;
-}
-
-#insta{
-
-  color: pink;
-
-}
 
 
 .socials {
@@ -121,6 +107,8 @@ background-color: pink;
   background-color: white;
   padding: 10px;
   font-size: 150px;
+  color:black;
+  text-align: center;
 }
 
 
