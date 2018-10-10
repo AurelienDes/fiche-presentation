@@ -1,5 +1,6 @@
 body{
   background-color: #F2F2F2;
+  background-image: url(chelou.jpg);
 }
 
 h1{
@@ -113,6 +114,7 @@ background-color: black;
 .socials:hover{
   color: rgba ( 0, 0, 0, 0.5 );
 }
+ 
 
 
 
