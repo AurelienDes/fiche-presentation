@@ -51,8 +51,7 @@ p{
   border-radius: 3px;
   background-color: white;
   margin: 30px auto;
-  padding: 30px 5px;
-  text-align: center;
+  padding:  20px 5px;
   color: black;
   font-family: roboto;
    box-shadow: 10px 10px 20px #BFBFBF;
@@ -109,7 +108,12 @@ background-color: pink;
   font-size: 150px;
   color:black;
   text-align: center;
+
 }
+.socials:hover{
+  color: rgba ( 0, 0, 0, 0.5 );
+}
+
 
 
 
